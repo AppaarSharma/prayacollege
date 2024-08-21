@@ -1,3 +1,3 @@
 # prayacollege
-This is my first Git repo 
-Author - Guddudon <br>
+This is my first Git repo <br>
+Author - Guddudon 
